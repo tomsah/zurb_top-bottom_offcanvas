@@ -6,7 +6,7 @@ which include push, overlap and sub-menu
 
 ## Demo can be see here
 
-	* http://tsalah_prototypes.llrdev.org.uk/offcanvas-top/
+	*[Demo here](http://tsalah_prototypes.llrdev.org.uk/offcanvas-top/)
 
 ## How to use it
 
@@ -19,6 +19,8 @@ which include push, overlap and sub-menu
 	use the class top-off-canvas-menu and top-off-canvas-toggle
 
 	BUT KEEP IN MIND.
-	I have modified the core files in purpose to offer a pull request to zurb foundation so if you replace those files with my code and you update your zurb foundation this code will be lost and you will have to replace it again.
+	I have modified the core files in purpose to offer a pull request to zurb foundation.
+	So if you replace those files with my code and you update your zurb foundation this code will be lost.
+	You will have to replace it again.
 
 ## Hope this will help and don't hesitate to leave comments, critics or ideas.
