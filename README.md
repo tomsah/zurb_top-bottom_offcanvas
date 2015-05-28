@@ -3,11 +3,11 @@
 I have added directly to foundation offcanvas js and scss core files the top and bottom behaviour,
 which include push, overlap and sub-menu 
 
-
+[Demo here](http://tsalah_prototypes.llrdev.org.uk/offcanvas-top)
 ## Demo can be see here
 ```html
 	<a href ="http://tsalah_prototypes.llrdev.org.uk/offcanvas-top">Live Demo here</a>
-	[Demo here](http://tsalah_prototypes.llrdev.org.uk/offcanvas-top)
+	
 ```
 ## How to use it
 
