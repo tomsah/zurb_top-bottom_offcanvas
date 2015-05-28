@@ -6,7 +6,7 @@ which include push, overlap and sub-menu
 
 ## Demo can be see here
 
-	<a href="http://tsalah_prototypes.llrdev.org.uk/offcanvas-top/">[Demo here]</a>
+	[Demo here](http://tsalah_prototypes.llrdev.org.uk/offcanvas-top)
 
 ## How to use it
 
