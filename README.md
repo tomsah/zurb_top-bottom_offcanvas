@@ -1,29 +1,24 @@
-# Foundation Compass Template
+# Zurb Foundation Offcanvas top-bottom behaviour
 
-The easiest way to get started with Foundation + Compass.
+I have added directly to foundation offcanvas js and scss core files the top and bottom behaviour,
+which include push, overlap and sub-menu 
 
-## Requirements
 
-  * Ruby 1.9+
-  * [Node.js](http://nodejs.org)
-  * [compass](http://compass-style.org/): `gem install compass`
-  * [bower](http://bower.io): `npm install bower -g`
+## Demo can be see here
 
-## Quickstart
+	* http://tsalah_prototypes.llrdev.org.uk/offcanvas-top/
 
-  * [Download this starter compass project and unzip it](https://github.com/zurb/foundation-compass-template/archive/master.zip)
-  * Run `bower install` to install the latest version of Foundation
-  
-Then when you're working on your project, just run the following command:
+## How to use it
 
-```bash
-bundle exec compass watch
-```
+	you can simply copy and paste the code from 
+		bower_components/foundation/js/foundation/foundation.offcanvas.js
+		bower_components/foundation/scss/foundation/components/_offcanvas.scss
+	to your foundation copy and start using top bottom behaviour exactly as you would for left and right offcanvas
 
-## Upgrading
+	for example to use top offcanvas 
+	use the class top-off-canvas-menu and top-off-canvas-toggle
 
-If you'd like to upgrade to a newer version of Foundation down the road just run:
+	BUT KEEP IN MIND.
+	I have modified the core files in purpose to offer a pull request to zurb foundation so if you replace those files with my code and you update your zurb foundation this code will be lost and you will have to replace it again.
 
-```bash
-bower update
-```
+## Hope this will help and don't hesitate to leave comments, critics or ideas.
