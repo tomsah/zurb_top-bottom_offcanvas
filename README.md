@@ -3,7 +3,7 @@
 I have added directly to foundation offcanvas js and scss core files the top and bottom behaviour,
 which include push, overlap and sub-menu 
 
-A live demo is ready and will be posted soon.
+[Live Demo here](http://tomsah.co.uk/offcanvas-demo/)
 
 ## How to use it
 
